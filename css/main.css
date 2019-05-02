@@ -1,0 +1,28 @@
+.navbar{
+	background: #444;
+	-o-transition:all .6s; -moz-transition: all .6s;
+	backface-visibility: :hidden;
+}
+.navbar-dark .navbar-nav{
+	font-size: 15px; color: #fff; text
+}
+.navbar-dark .navbar-nav .nav-link{
+	color: #fff; color: rgba();
+}
+.navbar-dark .navbar-nav .nav-link{
+	font-size: 15px; color: #fff
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+	 color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link:focus{
+	 color: #fff;outline: 
+}
+
+.navbar-expand-md .navbar-nav .nav-link:focus{
+	 padding-left: 1rem;
+}
+#section-1{
+	padding-top: 100px;
+}
+                                        
